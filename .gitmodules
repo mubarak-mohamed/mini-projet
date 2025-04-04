@@ -1,0 +1,3 @@
+[submodule "chemin/submodule"]
+	path = chemin/submodule
+	url = https://github.com/mubarak-mohamed/mini-projet.git
