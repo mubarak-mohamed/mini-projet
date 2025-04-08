@@ -37,4 +37,4 @@ Mini-Projet/
 
 ## Licence
 
-Ce projet est un logiciel open-source sous licence : [GPL-3.0 license](https://github.com/mubarak-mohamed/mini-projet/blob/main/LICENSE.txt).
+Ce projet est un logiciel open-source sous licence : [GPL-3.0 license](https://github.com/mubarak-mohamed/mini-projet/blob/main/LICENSE).
